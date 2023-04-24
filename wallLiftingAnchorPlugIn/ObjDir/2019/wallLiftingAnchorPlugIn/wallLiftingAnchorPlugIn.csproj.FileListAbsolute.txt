@@ -1,0 +1,11 @@
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn\bin\Debug\wallLiftingAnchorPlugIn.exe.config
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn\bin\Debug\wallLiftingAnchorPlugIn.exe
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn\bin\Debug\wallLiftingAnchorPlugIn.pdb
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\ObjDir\2019\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn.csproj.AssemblyReference.cache
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\ObjDir\2019\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn.csproj.SuggestedBindingRedirects.cache
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\ObjDir\2019\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn.Form1.resources
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\ObjDir\2019\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn.Properties.Resources.resources
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\ObjDir\2019\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn.csproj.GenerateResource.cache
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\ObjDir\2019\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn.csproj.CoreCompileInputs.cache
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\ObjDir\2019\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn.exe
+C:\Users\valte\source\repos\wallLiftingAnchorPlugIn\ObjDir\2019\wallLiftingAnchorPlugIn\wallLiftingAnchorPlugIn.pdb
