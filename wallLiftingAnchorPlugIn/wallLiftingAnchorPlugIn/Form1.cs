@@ -419,11 +419,10 @@ namespace wallLiftingAnchorPlugIn
 
                 double material = 25.90;
                 
-                if (splitted.Length >= 1)
+                if (splitted.Length >= 2)
                 {
                     material = double.Parse(splitted[splitted.Length - 1]);
                 }
-
                 
                 //Get adhesion force
 
