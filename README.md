@@ -13,5 +13,3 @@ How to use -
 
 If you have any questions reach out to me on Linkedin - 
 https://www.linkedin.com/in/valters-s%C4%93j%C4%81ns-84a274101/
-or email -
-valters.sejans@hotmail.com
