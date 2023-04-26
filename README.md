@@ -6,7 +6,7 @@ How to use -
 2) Insert the profile files in profile catalog using Tekla Structures.
 3) Insert the material file in material catalog using Tekla Structures.
 4) Insert the lifting component uel files in your model using Tekla Structures.
-5) Open the wallLiftingAnchorPlugIn.sln file from root dict using Visual Studio if you want to be able to eddit the code and run it with Visual Studio.
+5) Open the wallLiftingAnchorPlugIn.sln file using Visual Studio if you want to be able to eddit the code and run it with Visual Studio.
 6) Open the /wallLiftingAnchorPlugIn/bin/Debug/wallLiftingAnchorPlugIn.exe file to use the application as standalone (Works only with Tekla Structures 2020).
 
 
