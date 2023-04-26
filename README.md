@@ -1,6 +1,8 @@
 # liftingAnchorDetailTeklaOpenApi
 A Tekla Open Api application that reads data from elements in Tekla, calculates sutable lifting anchors and inserts them back in Tekla Structures element.
 
+Disclaimer - This is a prototype and should be used at your own risk. 
+
 How to use - 
 1) Unzip the liftingLoopComponents file.
 2) Insert the profile files in profile catalog using Tekla Structures.
